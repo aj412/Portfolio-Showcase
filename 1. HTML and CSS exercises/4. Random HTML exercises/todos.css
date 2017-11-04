@@ -1,0 +1,28 @@
+
+body{
+	background: purple;
+
+}
+
+h1{
+
+}
+
+h2{
+
+}
+
+li{
+	border: 2px purple;
+	background:brown;
+
+}
+#special{
+	background: yellow
+}
+#giroud{
+	background: white;
+}
+.lol{
+text-decoration: line-through;
+}

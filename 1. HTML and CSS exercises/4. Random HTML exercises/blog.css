@@ -1,0 +1,60 @@
+/*
+colours used
+border color:#bdc3c7(gray
+date color:#3498db(blue)
+h2 colour: 2#c3e50(header for blog title)
+
+font:source sans pro
+
+turn on left grey border, align every paragraph just the same
+Date in text-transform caps
+include letter spacing with margin
+inputbox line border-bottom
+*/
+
+
+#s{
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+	
+}
+/*
+#last{
+
+	border-bottom: 1px solid #bdc3c7;
+	padding-bottom: 3%;
+
+}
+*/
+#hr{
+	 border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+h3{
+	color: #3498db;
+	
+	text-transform: uppercase;
+	 letter-spacing: 0.2rem;
+	 font-weight: 100;
+
+}
+h2{
+	 font-weight: bold;
+    font-size: 2.0rem;
+}
+p{
+
+
+
+}
+body{
+	  margin:20px auto;
+    	width: 700px;
+    	
+    	border: 20px solid #bdc3c7;
+    	padding: 25px;
+    	padding-top: 1px;
+    	font-family:'Source Sans Pro', sans-serif;	
+
+}
